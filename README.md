@@ -1,2 +1,2 @@
-# DEPI Graduation Project
- DEPI Graduation Project
+# Graduation Project (DEPI)
+ Graduation Project (DEPI)
